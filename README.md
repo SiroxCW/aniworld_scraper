@@ -1,12 +1,12 @@
 # Simple Aniworld Scraper
 
-This is a limited onefile fork of [wolfswolke](https://github.com/wolfswolke)'s Anime/Serien Scraper which I made for simpleness.
+This is a limited onefile fork of [wolfswolke's](https://github.com/wolfswolke) Anime/Serien Scraper which I made for simpleness.
 This onefile tool will download all Seasons and Episodes of an anime from Aniworld.to.
 
 
 How to use:
 
-- download or install [ffmpeg](https://ffmpeg.org) (If you download it put it in the same folder as the script)
+- download or install [ffmpeg](https://ffmpeg.org) (if you downloaded it, put it in the same folder as the script or add it to the path)
   
 - ARGUMENTS: `aniworld_scraper.py <NAME> <LANGUAGE> <OUTPUT_PATH> <PROVIDER> <DOS_WAITCOUNT> <DOS_ACTIVECOUNT>`
   
